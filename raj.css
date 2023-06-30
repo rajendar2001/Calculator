@@ -1,0 +1,37 @@
+.text-center{
+  text-align: center;
+}
+
+.mx-auto{
+  margin: auto;
+}
+.m-w-20{
+  max-width: 30vw;
+}
+.flex{
+  display: flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+.itm-cnt{
+  align-items: center;
+}
+.row{
+  margin: 6px 0;
+}
+.row input{
+ font-size: 25;
+  border-color:2px solid black;
+  margin: 0;
+  font-size: 23;
+  padding: 34px 45px;
+  border-radius: 9px;
+}
+
+.b{
+  color:  red;
+   background: linear-gradient(to right,#00ccff,#00ff7b);
+  padding: 22px;
+  border-radius:8px;
+}
